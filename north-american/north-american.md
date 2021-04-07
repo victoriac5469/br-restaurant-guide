@@ -1,7 +1,7 @@
 # Bay Ridge Restaurant Guide
 ## North American
 ---
-Select a specific Asian food:
+Select a specific North American food:
 ## [Mexican](mexican.md)
 
 ---
